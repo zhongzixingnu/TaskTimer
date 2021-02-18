@@ -1,0 +1,11 @@
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\TaskTimer.csprojAssemblyReference.cache
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\TaskTimer.MainForm.resources
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\任务计时器.Properties.Resources.resources
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\TaskTimer.TaskForm.resources
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\TaskTimer.csproj.GenerateResource.cache
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\TaskTimer.csproj.CoreCompileInputs.cache
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\任务计时器.exe
+D:\Work\Files\Test\任务计时器\任务计时器\obj\Debug\任务计时器.pdb
+D:\Work\Files\Test\任务计时器\任务计时器\bin\Debug\任务计时器.exe.config
+D:\Work\Files\Test\任务计时器\任务计时器\bin\Debug\任务计时器.exe
+D:\Work\Files\Test\任务计时器\任务计时器\bin\Debug\任务计时器.pdb
